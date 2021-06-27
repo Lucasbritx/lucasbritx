@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbritx&label=Profile%20views&color=000000&style=flat" alt="lucasbritx" /> </p>
 
-- 🌱 I’m always learning about **React, Node, CSS, HTML**
+- 🌱 I’m always learning about **React, Node, HTMLC, CSS...**
 
-- 📫 How to reach me **lucasbritesxavier2010@gmail.com**
+- 📫 How to reach me: **lucasbritesxavier2010@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lcxavier/](https://www.linkedin.com/in/lcxavier/)
+- 📄 Student of IFRS and Gama Academy Full Stack Bootcamp
+
+- :computer: Two years of experience in development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
