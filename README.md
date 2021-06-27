@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h1 align="Left">Hi 👋, I'm Lucas</h1>
+<h3 align="Left">A frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbritx&label=Profile%20views&color=000000&style=flat" alt="lucasbritx" /> </p>
 
