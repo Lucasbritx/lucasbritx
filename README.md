@@ -7,9 +7,9 @@
 
 - 📫 How to reach me: **lucasbritesxavier2010@gmail.com**
 
-- 📄 Student of IFRS and Gama Academy Full Stack Bootcamp
+- 📄 Student of IFRS
 
-- :computer: Two years of experience in development 
+- :computer: Four years of experience in development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
