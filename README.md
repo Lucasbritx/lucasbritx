@@ -9,9 +9,9 @@
 
 - 📄 Student of IFRS
 
-- I'm currently working on the <a href="https://www.gruporbs.com.br/" target="blank">RBS Group</a>
+- I'm currently working on the <a href="https://www.lendingclub.com/" target="blank">Lending Club</a>
 
-- :computer: Four years of experience in development 
+- :computer: Six years of experience in development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
