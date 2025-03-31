@@ -7,11 +7,7 @@
 
 - 📫 How to reach me: **lucasbritesxavier2010@gmail.com**
 
-- 📄 Student of IFRS
-
-- I'm currently working on the <a href="https://www.lendingclub.com/" target="blank">Lending Club</a>
-
-- :computer: Six years of experience in development 
+- :computer: Six years of experience in development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
