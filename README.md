@@ -1,4 +1,4 @@
-<h1 align="Center">Hi 👋, I'm Lucas</h1>
+<h1 align="Center">Hi 👋 , I'm Lucas</h1>
 <h3 align="Center">A frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbritx&label=Profile%20views&color=000000&style=flat" alt="lucasbritx" /> </p>
