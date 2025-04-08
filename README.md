@@ -19,3 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbritx&show_icons=true&theme=dark&title_color=00ff00&text_color=00ff00&cache_seconds=1800&locale=en&layout=compact" alt="lucasbritx" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasbritx)](https://git.io/streak-stats)
+
+
