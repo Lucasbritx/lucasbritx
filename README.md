@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **lucasbritesxavier2010@gmail.com**
 
-- :computer: Six years of experience in development
+- :computer: Six years of experience in software development mainly focused on frontend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
