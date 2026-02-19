@@ -21,8 +21,6 @@ I specialize in:
 - 🔌 API integration & fullstack collaboration
 - 🧪 Testing and maintainable codebases
 
-I care about clean architecture, long-term scalability, and delivering real business value — not just shipping components.
-
 ---
 
 ### 🛠 Tech Stack
@@ -49,18 +47,6 @@ I care about clean architecture, long-term scalability, and delivering real busi
 - Postman
 - Figma
 - Bash
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbritx&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbritx&layout=compact&theme=dark" />
-</p>
 
 ---
 
