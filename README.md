@@ -111,4 +111,7 @@ Topics include:
 💼 **LinkedIn**
 https://linkedin.com/in/lcxavier
 
+📰 **Substack**
+https://substack.com/@lucasbrits
+
 🌎 Always interested in discussing frontend engineering, architecture, AI tooling, and challenging product problems.
