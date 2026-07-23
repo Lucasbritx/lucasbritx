@@ -15,8 +15,8 @@ Building scalable web applications, reusable UI systems and modern developer exp
   <a href="https://github.com/Lucasbritx">
     <img src="https://img.shields.io/badge/GitHub-Lucasbritx-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="[https://github.com/Lucasbritx](https://substack.com/@lucasbrits)">
-    <img src="https://img.shields.io/badge/Substack?style=for-the-badge&logo=substack"/>
+  <a href="https://substack.com/@lucasbrits">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Building scalable web applications, reusable UI systems and modern developer exp
 
 I'm a Senior Frontend Engineer from Brazil with 7+ years of experience building modern web applications for media, finance, and enterprise products.
 
-I enjoy solving complex frontend problems through clean architecture, reusable components, and performance-focused solutions. I've worked with distributed teams across Brazil and the US, collaborating closely with designers, product managers, and backend engineers.
+I enjoy solving complex frontend problems through clean architecture, reusable components, and performance-focused solutions. I've worked with distributed teams across Brazil and the US, collabora[...]
 
 Besides product development, I enjoy creating Proofs of Concept (POCs), exploring new technologies, and sharing knowledge through mentoring and technical presentations.
 
