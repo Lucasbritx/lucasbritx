@@ -26,7 +26,7 @@ Building scalable web applications, reusable UI systems and modern developer exp
 
 I'm a Senior Frontend Engineer from Brazil with 7+ years of experience building modern web applications for media, finance, and enterprise products.
 
-I enjoy solving complex frontend problems through clean architecture, reusable components, and performance-focused solutions. I've worked with distributed teams across Brazil and the US, collabora[...]
+I enjoy solving complex frontend problems through clean architecture, reusable components, and performance-focused solutions. I've worked with distributed teams across Brazil and the US, collaborating closely with designers, product managers, and backend engineers.
 
 Besides product development, I enjoy creating Proofs of Concept (POCs), exploring new technologies, and sharing knowledge through mentoring and technical presentations.
 
