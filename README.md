@@ -15,6 +15,9 @@ Building scalable web applications, reusable UI systems and modern developer exp
   <a href="https://github.com/Lucasbritx">
     <img src="https://img.shields.io/badge/GitHub-Lucasbritx-181717?style=for-the-badge&logo=github"/>
   </a>
+  <a href="[https://github.com/Lucasbritx](https://substack.com/@lucasbrits)">
+    <img src="https://img.shields.io/badge/Substack?style=for-the-badge&logo=substack"/>
+  </a>
 </p>
 
 ---
